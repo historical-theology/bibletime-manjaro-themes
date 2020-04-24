@@ -1,6 +1,8 @@
 # bibletime-manjaro-themes
 ### Unofficial Manjaro-based themes for BibleTime (https://github.com/bibletime/bibletime)
 
+*For now, the only Manjaro theme matched will be Maia-Dark, but please feel free to submit pull requests with other themes.
+
 Verified working in Manjaro i3 19.0.2 with BibleTime 2.11.2-1 installed from the official Manjaro Community repository.
 
 -----
